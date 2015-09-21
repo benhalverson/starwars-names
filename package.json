@@ -1,5 +1,6 @@
 {
   "name": "starwars-names",
+  "version": "0.0.0-semeantically-released",
   "description": "random starwars names",
   "main": "src/index.js",
   "scripts": {
@@ -26,5 +27,7 @@
     "cz-conventional-changelog": "1.1.0",
     "mocha": "2.3.3",
     "semantic-release": "^4.3.5"
-  }
+  },
+  "czConfig": {
+    "path":"node_modules/cz-conventional-changelog"}
 }
