@@ -1,0 +1,22 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "random starwars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benhalverson/starwars-names.git"
+  },
+  "author": "Ben Halverson <benhalverson33@gmail.com> (http://benhalverson.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benhalverson/starwars-names/issues"
+  },
+  "homepage": "https://github.com/benhalverson/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
